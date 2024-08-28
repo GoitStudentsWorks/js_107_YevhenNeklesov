@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/red-hot-chili-coders/",
+    "build": "vite build --base=/js_107_YevhenNeklesov/",
     "preview": "vite preview"
   },
   "devDependencies": {
